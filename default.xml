@@ -23,7 +23,7 @@
 <!--
   <project path="bfgminer" name="bfgminer" remote="lukejr" revision="master" />
 -->
-  <project path="bfgminer" name="bfgminer" remote="cyan" revision="master" />
+  <project path="bfgminer" name="bfgminer" remote="cyan" revision="bfgminer" />
 
   <project path="cpuminer" name="cpuminer" remote="pooler" revision="master" />
 
