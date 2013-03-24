@@ -16,7 +16,7 @@
   <default revision="refs/tags/master" remote="gh" sync-j="4" />
 
   <project path="cgminer" name="cgminer" remote="ckolivas" revision="master" />
-  <project path="bfgminer" name="bfgminer" remote="lukejr" revision="master" />
+  <project path="bfgminer" name="bfgminer" remote="lukejr" revision="bfgminer" />
 
   <project path="cpuminer" name="cpuminer" remote="pooler" revision="master" />
 
