@@ -15,30 +15,17 @@
 
   <default revision="refs/tags/master" remote="gh" sync-j="4" />
 
-<!--
   <project path="cgminer" name="cgminer" remote="ckolivas" revision="master" />
--->
-  <project path="cgminer" name="cgminer" remote="cyan" revision="master" />
-
-<!--
   <project path="bfgminer" name="bfgminer" remote="lukejr" revision="master" />
--->
-  <project path="bfgminer" name="bfgminer" remote="cyan" revision="bfgminer" />
 
   <project path="cpuminer" name="cpuminer" remote="pooler" revision="master" />
 
 <!--
   <project path="pushpool" name="pushpool" remote="jgarzik" revision="master" />
-  <project path="pushpool" name="pushpool" remote="cyan" revision="master" />
   <project path="p2pool" name="p2pool" remote="forrestv" revision="master" />
-  <project path="p2pool" name="p2pool" remote="cyan" revision="master" />
 -->  
 
-<!--  
   <project path="bitcoin" name="bitcoin" remote="bitcoin" revision="master" />
--->
-  <project path="bitcoin" name="bitcoin" remote="cyan" revision="master" />
-
   <project path="litecoin" name="litecoin" remote="litecoin" revision="master" />
 
   <project path="bitcoinj" name="bitcoinj" remote="gl" revision="master" />
