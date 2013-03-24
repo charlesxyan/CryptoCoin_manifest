@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="gh" fetch="https://github.com" />
+  <remote  name="gl" fetch="https://code.google.com/p" />
+
+  <remote  name="cyan" fetch="https://github.com/charlesxyan" />
+  <remote  name="ckolivas" fetch="https://github.com/ckolivas" />
+  <remote  name="lukejr" fetch="https://github.com/luke-jr" />
+  <remote  name="pooler" fetch="https://github.com/pooler" />
+  <remote  name="jgarzik" fetch="https://github.com/jgarzik" />
+  <remote  name="forrestv" fetch="https://github.com/forrestv" />
+
+  <remote  name="bitcoin" fetch="https://github.com/bitcoin" />
+  <remote  name="litecoin" fetch="https://github.com/litecoin-project" />
+
+  <default revision="refs/tags/master" remote="gh" sync-j="4" />
+
+<!--
+  <project path="cgminer" name="cgminer" remote="ckolivas" revision="master" />
+-->
+  <project path="cgminer" name="cgminer" remote="cyan" revision="master" />
+
+<!--
+  <project path="bfgminer" name="bfgminer" remote="lukejr" revision="master" />
+-->
+  <project path="bfgminer" name="bfgminer" remote="cyan" revision="master" />
+
+  <project path="cpuminer" name="cpuminer" remote="pooler" revision="master" />
+
+<!--
+  <project path="pushpool" name="pushpool" remote="jgarzik" revision="master" />
+  <project path="pushpool" name="pushpool" remote="cyan" revision="master" />
+  <project path="p2pool" name="p2pool" remote="forrestv" revision="master" />
+  <project path="p2pool" name="p2pool" remote="cyan" revision="master" />
+-->  
+
+<!--  
+  <project path="bitcoin" name="bitcoin" remote="bitcoin" revision="master" />
+-->
+  <project path="bitcoin" name="bitcoin" remote="cyan" revision="master" />
+
+  <project path="litecoin" name="litecoin" remote="litecoin" revision="master" />
+
+  <project path="bitcoinj" name="bitcoinj" remote="gl" revision="master" />
+</manifest>
