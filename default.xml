@@ -9,6 +9,7 @@
   <remote  name="pooler" fetch="https://github.com/pooler" />
   <remote  name="jgarzik" fetch="https://github.com/jgarzik" />
   <remote  name="forrestv" fetch="https://github.com/forrestv" />
+  <remote  name="CryptoManiacforrestv" fetch="https://github.com/CryptoManiac" />
 
   <remote  name="bitcoin" fetch="https://github.com/bitcoin" />
   <remote  name="litecoin" fetch="https://github.com/litecoin-project" />
@@ -24,6 +25,7 @@
   <project path="pushpool" name="pushpool" remote="jgarzik" revision="master" />
   <project path="p2pool" name="p2pool" remote="forrestv" revision="master" />
 -->  
+  <project path="stratum-mining-proxy" name="stratum-mining-proxy" remote="CryptoManiac" revision="master" />
 
   <project path="bitcoin" name="bitcoin" remote="bitcoin" revision="master" />
   <project path="litecoin" name="litecoin" remote="litecoin" revision="master" />
