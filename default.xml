@@ -34,5 +34,8 @@
 
   <project path="bitcoinj" name="bitcoinj" remote="gl" revision="master" />
 
+<!--
   <project path="rippled" name="NewCoin" remote="jm" revision="master" />
+-->
+
 </manifest>
