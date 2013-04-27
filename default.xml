@@ -11,6 +11,8 @@
   <remote  name="forrestv" fetch="https://github.com/forrestv" />
   <remote  name="CryptoManiac" fetch="https://github.com/CryptoManiac" />
 
+  <remote  name="jm" fetch="https://github.com/jedmccaleb" />
+
   <remote  name="bitcoin" fetch="https://github.com/bitcoin" />
   <remote  name="litecoin" fetch="https://github.com/litecoin-project" />
 
@@ -31,4 +33,6 @@
   <project path="litecoin" name="litecoin" remote="litecoin" revision="master" />
 
   <project path="bitcoinj" name="bitcoinj" remote="gl" revision="master" />
+
+  <project path="rippled" name="NewCoin" remote="jm" revision="master" />
 </manifest>
