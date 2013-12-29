@@ -24,7 +24,7 @@
 
   <project path="cpuminer" name="cpuminer" remote="pooler" revision="master" />
 
-  <project path="KnCminer" name="KnCMiner" remote="KnCMiner" revision="master" />
+  <project path="KnCMiner" name="KnCMiner" remote="KnCMiner" revision="master" />
 
 <!--
   <project path="pushpool" name="pushpool" remote="jgarzik" revision="master" />
