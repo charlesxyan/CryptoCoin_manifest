@@ -10,7 +10,7 @@
   <remote  name="jgarzik" fetch="https://github.com/jgarzik" />
   <remote  name="forrestv" fetch="https://github.com/forrestv" />
   <remote  name="CryptoManiac" fetch="https://github.com/CryptoManiac" />
-  <remote  name="KnCMiner" fetch="https://github.com" />
+  <remote  name="KnCMiner" fetch="https://github.com/KnCMiner" />
 
   <remote  name="jm" fetch="https://github.com/jedmccaleb" />
 
@@ -24,7 +24,7 @@
 
   <project path="cpuminer" name="cpuminer" remote="pooler" revision="master" />
 
-  <project path="KnCMiner" name="KnCMiner" remote="KnCMiner" revision="master" />
+  <project path="KnCMiner/jupiter-hw-docs" name="jupiter-hw-docs" remote="KnCMiner" revision="master" />
 
 <!--
   <project path="pushpool" name="pushpool" remote="jgarzik" revision="master" />
