@@ -10,7 +10,7 @@
   <remote  name="jgarzik" fetch="https://github.com/jgarzik" />
   <remote  name="forrestv" fetch="https://github.com/forrestv" />
   <remote  name="CryptoManiac" fetch="https://github.com/CryptoManiac" />
-  <remote  name="KnCMiner" fetch="https://github.com/KnCMiner" />
+  <remote  name="KnCMiner" fetch="https://github.com" />
 
   <remote  name="jm" fetch="https://github.com/jedmccaleb" />
 
